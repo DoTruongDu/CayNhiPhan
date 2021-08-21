@@ -1,0 +1,9 @@
+C:\Users\Truong Du\source\repos\AVL-Tree-Algorithm\Cay_Nhi_Phan\Cay_Nhi_Phan_KhongCanBang\Cay_Nhi_Phan\bin\Debug\Cay_Nhi_Phan.exe.config
+C:\Users\Truong Du\source\repos\AVL-Tree-Algorithm\Cay_Nhi_Phan\Cay_Nhi_Phan_KhongCanBang\Cay_Nhi_Phan\bin\Debug\Cay_Nhi_Phan.exe
+C:\Users\Truong Du\source\repos\AVL-Tree-Algorithm\Cay_Nhi_Phan\Cay_Nhi_Phan_KhongCanBang\Cay_Nhi_Phan\bin\Debug\Cay_Nhi_Phan.pdb
+C:\Users\Truong Du\source\repos\AVL-Tree-Algorithm\Cay_Nhi_Phan\Cay_Nhi_Phan_KhongCanBang\Cay_Nhi_Phan\obj\Debug\Cay_Nhi_Phan_KhongCanBang.csprojResolveAssemblyReference.cache
+C:\Users\Truong Du\source\repos\AVL-Tree-Algorithm\Cay_Nhi_Phan\Cay_Nhi_Phan_KhongCanBang\Cay_Nhi_Phan\obj\Debug\Cay_Nhi_Phan.AVLTree_Form.resources
+C:\Users\Truong Du\source\repos\AVL-Tree-Algorithm\Cay_Nhi_Phan\Cay_Nhi_Phan_KhongCanBang\Cay_Nhi_Phan\obj\Debug\Cay_Nhi_Phan.Properties.Resources.resources
+C:\Users\Truong Du\source\repos\AVL-Tree-Algorithm\Cay_Nhi_Phan\Cay_Nhi_Phan_KhongCanBang\Cay_Nhi_Phan\obj\Debug\Cay_Nhi_Phan_KhongCanBang.csproj.GenerateResource.Cache
+C:\Users\Truong Du\source\repos\AVL-Tree-Algorithm\Cay_Nhi_Phan\Cay_Nhi_Phan_KhongCanBang\Cay_Nhi_Phan\obj\Debug\Cay_Nhi_Phan.exe
+C:\Users\Truong Du\source\repos\AVL-Tree-Algorithm\Cay_Nhi_Phan\Cay_Nhi_Phan_KhongCanBang\Cay_Nhi_Phan\obj\Debug\Cay_Nhi_Phan.pdb
