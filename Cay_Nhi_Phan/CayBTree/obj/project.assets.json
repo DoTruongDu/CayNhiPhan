@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Truong Du\\Desktop\\Đồ án\\Cay_Nhi_Phan\\CayBTree\\CayBTree.csproj",
+      "projectUniqueName": "C:\\Users\\Truong Du\\Desktop\\Đồ án111\\Đồ án\\Cay_Nhi_Phan\\CayBTree\\CayBTree.csproj",
       "projectName": "CayBTree",
-      "projectPath": "C:\\Users\\Truong Du\\Desktop\\Đồ án\\Cay_Nhi_Phan\\CayBTree\\CayBTree.csproj",
+      "projectPath": "C:\\Users\\Truong Du\\Desktop\\Đồ án111\\Đồ án\\Cay_Nhi_Phan\\CayBTree\\CayBTree.csproj",
       "packagesPath": "C:\\Users\\Truong Du\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Truong Du\\Desktop\\Đồ án\\Cay_Nhi_Phan\\CayBTree\\obj\\",
+      "outputPath": "C:\\Users\\Truong Du\\Desktop\\Đồ án111\\Đồ án\\Cay_Nhi_Phan\\CayBTree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

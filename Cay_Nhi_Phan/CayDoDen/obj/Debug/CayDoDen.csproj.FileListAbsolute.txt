@@ -8,3 +8,13 @@ C:\Users\Truong Du\Desktop\Đồ án\Cay_Nhi_Phan\CayDoDen\obj\Debug\CayDoDen.cs
 C:\Users\Truong Du\Desktop\Đồ án\Cay_Nhi_Phan\CayDoDen\obj\Debug\CayDoDen.csproj.CoreCompileInputs.cache
 C:\Users\Truong Du\Desktop\Đồ án\Cay_Nhi_Phan\CayDoDen\obj\Debug\Red-Black Tree.exe
 C:\Users\Truong Du\Desktop\Đồ án\Cay_Nhi_Phan\CayDoDen\obj\Debug\Red-Black Tree.pdb
+D:\Đồ án\Cay_Nhi_Phan\CayDoDen\bin\Debug\Red-Black Tree.exe.config
+D:\Đồ án\Cay_Nhi_Phan\CayDoDen\bin\Debug\Red-Black Tree.exe
+D:\Đồ án\Cay_Nhi_Phan\CayDoDen\bin\Debug\Red-Black Tree.pdb
+D:\Đồ án\Cay_Nhi_Phan\CayDoDen\obj\Debug\CayDoDen.csprojAssemblyReference.cache
+D:\Đồ án\Cay_Nhi_Phan\CayDoDen\obj\Debug\Red_Black_Tree.CayDoDen.resources
+D:\Đồ án\Cay_Nhi_Phan\CayDoDen\obj\Debug\Red_Black_Tree.Properties.Resources.resources
+D:\Đồ án\Cay_Nhi_Phan\CayDoDen\obj\Debug\CayDoDen.csproj.GenerateResource.cache
+D:\Đồ án\Cay_Nhi_Phan\CayDoDen\obj\Debug\CayDoDen.csproj.CoreCompileInputs.cache
+D:\Đồ án\Cay_Nhi_Phan\CayDoDen\obj\Debug\Red-Black Tree.exe
+D:\Đồ án\Cay_Nhi_Phan\CayDoDen\obj\Debug\Red-Black Tree.pdb

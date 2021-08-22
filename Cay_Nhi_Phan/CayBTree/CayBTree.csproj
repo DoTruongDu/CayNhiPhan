@@ -1,15 +1,9 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
-
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
+    <ProjectGuid>{562851A8-0F1A-4C4C-BC07-8CC2C1763396}</ProjectGuid>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Compile Remove="AddResult.cs" />
-    <Compile Remove="BTreeAncetres.cs" />
-    <Compile Remove="BTreeNodeParent.cs" />
-  </ItemGroup>
-
 </Project>

@@ -13,3 +13,18 @@ C:\Users\Truong Du\Desktop\Đồ án\Cay_Nhi_Phan\CayBTree\obj\Debug\netcoreapp3
 C:\Users\Truong Du\Desktop\Đồ án\Cay_Nhi_Phan\CayBTree\obj\Debug\netcoreapp3.1\CayBTree.dll
 C:\Users\Truong Du\Desktop\Đồ án\Cay_Nhi_Phan\CayBTree\obj\Debug\netcoreapp3.1\CayBTree.pdb
 C:\Users\Truong Du\Desktop\Đồ án\Cay_Nhi_Phan\CayBTree\obj\Debug\netcoreapp3.1\CayBTree.genruntimeconfig.cache
+C:\Users\Truong Du\Desktop\Đồ án111\Đồ án\Cay_Nhi_Phan\CayBTree\bin\Debug\netcoreapp3.1\CayBTree.exe
+C:\Users\Truong Du\Desktop\Đồ án111\Đồ án\Cay_Nhi_Phan\CayBTree\bin\Debug\netcoreapp3.1\CayBTree.deps.json
+C:\Users\Truong Du\Desktop\Đồ án111\Đồ án\Cay_Nhi_Phan\CayBTree\bin\Debug\netcoreapp3.1\CayBTree.runtimeconfig.json
+C:\Users\Truong Du\Desktop\Đồ án111\Đồ án\Cay_Nhi_Phan\CayBTree\bin\Debug\netcoreapp3.1\CayBTree.runtimeconfig.dev.json
+C:\Users\Truong Du\Desktop\Đồ án111\Đồ án\Cay_Nhi_Phan\CayBTree\bin\Debug\netcoreapp3.1\CayBTree.dll
+C:\Users\Truong Du\Desktop\Đồ án111\Đồ án\Cay_Nhi_Phan\CayBTree\bin\Debug\netcoreapp3.1\CayBTree.pdb
+C:\Users\Truong Du\Desktop\Đồ án111\Đồ án\Cay_Nhi_Phan\CayBTree\obj\Debug\netcoreapp3.1\CayBTree.csprojAssemblyReference.cache
+C:\Users\Truong Du\Desktop\Đồ án111\Đồ án\Cay_Nhi_Phan\CayBTree\obj\Debug\netcoreapp3.1\SimuBTree.CayBTree.resources
+C:\Users\Truong Du\Desktop\Đồ án111\Đồ án\Cay_Nhi_Phan\CayBTree\obj\Debug\netcoreapp3.1\CayBTree.csproj.GenerateResource.cache
+C:\Users\Truong Du\Desktop\Đồ án111\Đồ án\Cay_Nhi_Phan\CayBTree\obj\Debug\netcoreapp3.1\CayBTree.AssemblyInfoInputs.cache
+C:\Users\Truong Du\Desktop\Đồ án111\Đồ án\Cay_Nhi_Phan\CayBTree\obj\Debug\netcoreapp3.1\CayBTree.AssemblyInfo.cs
+C:\Users\Truong Du\Desktop\Đồ án111\Đồ án\Cay_Nhi_Phan\CayBTree\obj\Debug\netcoreapp3.1\CayBTree.csproj.CoreCompileInputs.cache
+C:\Users\Truong Du\Desktop\Đồ án111\Đồ án\Cay_Nhi_Phan\CayBTree\obj\Debug\netcoreapp3.1\CayBTree.dll
+C:\Users\Truong Du\Desktop\Đồ án111\Đồ án\Cay_Nhi_Phan\CayBTree\obj\Debug\netcoreapp3.1\CayBTree.pdb
+C:\Users\Truong Du\Desktop\Đồ án111\Đồ án\Cay_Nhi_Phan\CayBTree\obj\Debug\netcoreapp3.1\CayBTree.genruntimeconfig.cache
